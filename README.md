@@ -20,7 +20,7 @@
 
 Hi, I'm Joan López de la Franca Beltran, a passionate software engineer from Barcelona.
 
-- 🔭 I'm a Software Engineer at [@grafana](https://github.com/grafana), and [we're looking for talents like you](https://grafana.com/about/careers/).
+- 🔭 I'm a Senior Software Engineer at [@grafana](https://github.com/grafana), and [we're looking for talents like you](https://grafana.com/about/careers/).
 - 👯 I’m running [@friendsofgo](https://github.com/friendsofgo) and [@goremotefest](https://github.com/goremotefest).
 - 🌱 I’m currently learning Elixir & Kubernetes.
 - 📫 The best way to reach me is by sending me an email.
