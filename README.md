@@ -21,8 +21,7 @@
 Hi, I'm Joan López de la Franca Beltran, a passionate software engineer from Barcelona.
 
 - 🔭 I'm a Senior Software Engineer at [@grafana](https://github.com/grafana), and [we're looking for talents like you](https://grafana.com/about/careers/).
-- 👯 I’m running [@friendsofgo](https://github.com/friendsofgo) and [@goremotefest](https://github.com/goremotefest).
-- 🌱 I’m currently learning Elixir & Kubernetes.
+- 👯 Used to run [@friendsofgo](https://github.com/friendsofgo) and [@goremotefest](https://github.com/goremotefest).
 - 📫 The best way to reach me is by sending me an email.
 - 💬 Ask me about anything [here](https://github.com/joanlopez/joanlopez/issues).
 
@@ -36,11 +35,13 @@ Hi, I'm Joan López de la Franca Beltran, a passionate software engineer from Ba
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>    
 
-**GitHub Stats:**  
+**Some Stats:**  
 
 <a href="https://github.com/joanlopez/joanlopez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanlopez&hide=java,html,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanlopez&layout=compact&size_weight=0.5&count_weight=0.5" />
 </a>
+<br/>
+<br/>
 <a href="https://github.com/joanlopez/joanlopez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joanlopez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="joanlopez's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joanlopez&show_icons=true&theme=transparent&card_width=300px&include_all_commits=true&custom_title=GitHub%20Stats&show=reviews&rank_icon=github" alt="joanlopez's GitHub Stats" />
 </a>
